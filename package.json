@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "async": "^3.2.5",
+    "jsverify": "^0.8.4"
+  }
+}
