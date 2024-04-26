@@ -21,3 +21,7 @@ this.
 
 What is the time complexity of your implementation (worst-case $\Theta$)? Add
 your answer, including your reasoning, to this markdown file.
+
+# Answer:
+
+The worst-case time complexity of this implimentation is $\Theta(n)$ since, apart from the for-loop that is of $n$ complexity, there are only constant time operations involved in the asynchromous flow of things.
